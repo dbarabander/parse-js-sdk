@@ -1,6 +1,6 @@
 {
   "name": "parse-js-sdk",
-  "version": "1.6.13",
+  "version": "1.6.4",
   "description": "Parse JS SDK hosted on github",
   "main": "lib/parse.js",
   "scripts": {
